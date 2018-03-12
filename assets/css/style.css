@@ -1,0 +1,45 @@
+#body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/congruent_pentagon.png);
+    background-repeat: repeat;
+    font-family: 'Lobster', cursive;
+}
+
+#heading {
+    margin-left:15px;
+}
+
+.heading {
+    font-size: 30px; 
+}
+
+#instructions {
+margin-top: -30px;
+font-size: 20px;
+padding-left: 15px;
+font-family: 'Quicksand', sans-serif;
+border-style: dotted;
+border-width: 4px;
+}
+
+#number {
+    font-size: 22px; 
+}
+
+#wins {
+    font-size: 22px;
+    clear: all;
+}
+
+#losses{
+    font-size: 22px;
+    padding-left: 355px;
+}
+
+#buttons {
+    margin-left :425px;
+}
+
+#numbers {
+    margin-top: 15px;
+    margin-left: 75px;
+}
