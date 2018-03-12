@@ -10,14 +10,16 @@ $(document).ready(function () {
     var winning = 0;
     var losses = 0;
     var number = Math.floor(Math.random() * 100) + 1;
+
     var userInput = 0;
+
+
     var button1 = Math.floor(Math.random() * 10) + 1;
     var button2 = Math.floor(Math.random() * 10) + 1;
     var button3 = Math.floor(Math.random() * 10) + 1;
     var button4 = Math.floor(Math.random() * 10) + 1;
 
-
-
+     $("#number").text(number);
 
 
     $("#button1").click(function () {
